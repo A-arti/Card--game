@@ -18,7 +18,7 @@ To play the game online, visit the following URL in your web browser:
 -Cards will shuffle, then choose which card you think is the Ace of Spades.
 -Score increases for correct guesses; the game ends after a set number of rounds.
 
-##Technologies Used
+## Technologies Used
 -HTML
 -CSS (including Flexbox and Media Queries)
 -JavaScript (DOM manipulation, animations)
