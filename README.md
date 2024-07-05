@@ -1,6 +1,3 @@
-Certainly! Here's a basic README file template for your "Hunt the Ace" game project:
-
----
 
 # Hunt the Ace Game
 
