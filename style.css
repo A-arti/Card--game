@@ -15,11 +15,12 @@
     --primary-color: black;
     --secondary-color: #ffffff;
 
-    --primary-font: 'Quicksand', sans-serif;
+    --primary-font:'Times New Roman', Times, serif;
 }
 body{
     height:100vh;
     font-family: var(--primary-font);
+    background-color: #D8E9A8;
 }
 
 main{
@@ -103,10 +104,19 @@ header{
 .header-title-container{
     display: flex;
     justify-content: center;
+    
 }
+
+h1{
+    color:#191A19;
+}
+
 .header-round-info-container{
     display: flex;
     justify-content: space-evenly;
+    background-color:#4E9F3D;
+    border-radius: 25px;
+    margin: 0 100px;
 }
 .current-status{
     font-size:1.5rem;
@@ -137,6 +147,7 @@ header{
     padding: 5px;
     box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
     transform: rotate(-3deg);
+    background-color: white;
 }
 .badge{
     background-color: var(--badge-bg-color);
