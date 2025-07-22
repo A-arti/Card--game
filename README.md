@@ -15,10 +15,10 @@ Hunt the Ace is a simple card game where players try to find the Ace of Spades a
 
 ## Access the Game Online
 To play the game online, visit the following URL in your web browser:
-- [Hunt the Ace Game](https://a-arti.github.io/Card--game/)
+- [Live link ](https://a-arti.github.io/Card--game/)
 
 ## How to Play
-- Click the "Play Game" button to start.
+- Click the "Play Game" button to[start](images/Screenshot.png)
 - Cards will shuffle, then choose which card you think is the Ace of Spades.
 - Score increases for correct guesses; the game ends after a set number of rounds.
 
