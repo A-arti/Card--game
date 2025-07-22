@@ -5,7 +5,7 @@ Hunt the Ace is a simple card game where players try to find the Ace of Spades a
 
 ## Preview
 
-![Hunt the Ace Screenshot](assets/screenshot.png)
+![Hunt the Ace Screenshot](images/Screenshot2.png)
 
 ## Features
 - Interactive card flipping and shuffling animations.
