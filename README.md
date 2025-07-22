@@ -1,28 +1,36 @@
-# Hunt the Ace Game
+# 🃏 Hunt the Ace Game
 
-## Description
-Hunt the Ace is a simple card game where players try to find the Ace of Spades among a set of cards. This project implements the game using HTML, CSS, and JavaScript.
+## 📌 Description
+**Hunt the Ace** is a fun and simple card game where players try to find the **Ace of Spades** among shuffled cards. Built using **HTML**, **CSS**, and **JavaScript**, this game is interactive and engaging!
 
-## Preview
+## 🔍 Preview
 
+### 🎮 Gameplay Screenshot
 ![Hunt the Ace Screenshot](images/Screenshot2.png)
 
-## Features
-- Interactive card flipping and shuffling animations.
-- Game scoring based on rounds and correct card choices.
-- Responsive design for different screen sizes.
-- Local storage to save and resume game progress.
+### 🧩 Start Screen
+![Start Game Screenshot](images/Screenshot.png)
 
-## Access the Game Online
-To play the game online, visit the following URL in your web browser:
-- [Live link ](https://a-arti.github.io/Card--game/)
+## ✨ Features
+- 🔄 Interactive card flipping and shuffling animations  
+- 🧠 Game scoring based on rounds and correct card choices  
+- 📱 Responsive design for all screen sizes  
+- 💾 Save and resume progress using local storage  
 
-## How to Play
-- Click the "Play Game" button to[start](images/Screenshot.png)
-- Cards will shuffle, then choose which card you think is the Ace of Spades.
-- Score increases for correct guesses; the game ends after a set number of rounds.
+## 🌐 Access the Game Online
+Click the link below to play the game in your browser:  
+🔗 [Live Link to Hunt the Ace](https://a-arti.github.io/Card--game/)
 
-## Technologies Used
-- HTML
-- CSS (including Flexbox and Media Queries)
-- JavaScript (DOM manipulation, animations)
+## 🕹️ How to Play
+1. Click the **"Play Game"** button to start.
+2. Watch the cards shuffle, then pick the one you think is the **Ace of Spades**.
+3. ✅ Score points for correct guesses.
+4. 🏁 The game ends after a fixed number of rounds.
+
+## 🛠️ Technologies Used
+- ⚙️ **HTML**
+- 🎨 **CSS** (Flexbox & Media Queries)
+- 🧠 **JavaScript** (DOM manipulation, animations)
+
+---
+
